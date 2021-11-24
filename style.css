@@ -1,6 +1,5 @@
 body {
     background-color: #000000;
-    margin: 0px;
 }
 
 h1 {
@@ -98,8 +97,4 @@ a {
 
 .link-indicacoes-contato:hover {
     width: 100px;
-}
-
-.margin-bottom {
-    margin-bottom: 50px;
 }
