@@ -31,8 +31,8 @@ ul {
 }
 
 a {
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 .destaque {
@@ -43,7 +43,7 @@ a {
 .foto-principal {
     border-radius: 50px 10px 50px 10px;
     width: 25%;
-    margin: 40px;
+    margin: 40px 40px 40px 10px;
 }
 
 .center {
@@ -98,4 +98,8 @@ a {
 
 .link-indicacoes-contato:hover {
     width: 100px;
+}
+
+.margin-bottom {
+    margin-bottom: 50px;
 }
