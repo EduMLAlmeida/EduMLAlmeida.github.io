@@ -80,6 +80,7 @@ a {
     background-color: #fca311;
     transition: 0.1s;
     font-size: 33px;
+    padding:13px;
 }
 
 .link-menu:active {
@@ -97,4 +98,5 @@ a {
 
 .link-indicacoes-contato:hover {
     width: 100px;
+    transition: 0.1s;
 }
